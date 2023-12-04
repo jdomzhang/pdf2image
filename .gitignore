@@ -1,0 +1,19 @@
+.DS_Store
+tmp/
+output/
+dist/
+src/runner-build*.*
+debug
+debug.test
+src.exe
+src/src
+src/init/*.exe
+main.exe
+userdata/20*
+node_modules/
+__debug_bin
+
+.idea
+
+# yarn error log
+yarn-error.log
